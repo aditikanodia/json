@@ -1,2 +1,3 @@
 {"employee": 
-[{"id": 1480387, "doj": 10-may-2017, "available": 28, "used": 6},{"id": 5913303, "doj": 22, "available": 34, "used": 9}]}
+[{"id": 1480387, "doj": 10-may-2017, "obcl":12,"obsl":10, "obpl":5, "usedcl": 6, "usedsl":4, "usedpl":3},
+{"id": 5913303, "doj": 22, "obcl":9,"obsl":12, "obpl":8, "usedcl": 6, "usedsl":4, "usedpl":3}]}
